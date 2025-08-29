@@ -16,18 +16,14 @@
 }
 html,
 body {
-  height: 100%;
   margin: 0;
+  padding: 0;
 }
 
 body {
   font-family: 'Archivo', system-ui, -apple-system, Segoe UI, Roboto, Arial,
     sans-serif;
   color: var(--ink);
-  background: linear-gradient(
-    var(--bg-dark) 0 220px,
-    var(--bg-page) 220px 100%
-  );
 }
 
 .container {
