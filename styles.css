@@ -40,6 +40,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-end;
+  background: #121214;
 }
 
 .hero {
@@ -49,8 +50,6 @@ body {
   flex-direction: column;
   justify-content: center;
   width: 888px;
-
-  background: #121214;
 }
 
 .hero__title {
